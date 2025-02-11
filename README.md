@@ -50,7 +50,8 @@ I'm Senior iOS Developer with 14+ years of experience.
 
 ---
 
-## 🚀 Work Experience  
+<details>
+<summary>🚀  Work Experience</summary>
 
 ### **GuideHuman** _(Feb 2024 – Aug 2024)_  
 **Senior Software Engineer**  
@@ -120,9 +121,11 @@ I'm Senior iOS Developer with 14+ years of experience.
 - Optimized database queries, improving **UI performance and data syncing**  
 - Led the architecture of a **sync application** to retrieve car data from multiple sources  
 
----
+</details>
 
+---
 ## ⚡ Hobbies  
 🏋️ **Weight Lifting** • 🏄 **Surfing**
 
 ---
+
