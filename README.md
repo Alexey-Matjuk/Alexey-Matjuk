@@ -7,7 +7,7 @@
   Senior iOS Developer
   </p>
   <p align="center">
-  📧 <a href="mailto:bokkusunotegami@gmail.com">bokkusunotegami@gmail.com</a> 📍 Jakarta, Indonesia
+  📧 <a href="mailto:bokkusunotegami@gmail.com">bokkusunotegami@gmail.com</a> 📍 Indonesia
   </p>
 </p>
 
