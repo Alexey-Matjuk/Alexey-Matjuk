@@ -54,6 +54,13 @@ I'm Senior iOS Developer with 14+ years of experience.
 <summary><h2>🚀  Work Experience</h2></summary>
 
 Participated in the following projects as an employee of [ventionteams](https://ventionteams.com) and [itechartgroup](https://itechartgroup.by).
+The provided list is incomplete and only includes the most interesting projects.
+
+Honorable mentions:
+* [Camp Bestival](https://dorset.campbestival.net)
+* [CNA](https://www.cna.id/)
+* [ClassPass](https://classpass.com)
+* [Bitdefender](https://www.bitdefender.com)
 
 ### [**GuideHuman**](https://guidehuman.co) _(Feb 2024 – Aug 2024)_  
 **Senior Software Engineer**  
