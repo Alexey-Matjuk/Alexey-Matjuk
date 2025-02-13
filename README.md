@@ -53,7 +53,7 @@ I'm Senior iOS Developer with 14+ years of experience.
 <details>
 <summary><h2>🚀  Work Experience</h2></summary>
 
-### **GuideHuman** _(Feb 2024 – Aug 2024)_  
+### [**GuideHuman**](https://guidehuman.co) _(Feb 2024 – Aug 2024)_  
 **Senior Software Engineer**  
 - Developed a **smart social media app** enabling intuitive content sharing and organization  
 - Led the **video generation feature**, reducing processing time from **15-20 sec to 3 sec**  
@@ -71,7 +71,7 @@ I'm Senior iOS Developer with 14+ years of experience.
 
 ---
 
-### **Memrise - Education Platform** _(Nov 2022 – Jun 2023)_  
+### [**Memrise - Education Platform**](https://www.memrise.com) _(Nov 2022 – Jun 2023)_  
 **Lead Software Engineer**  
 - Enhanced **language learning app with 50M+ users**  
 - Developed **SwiftGen templates**, streamlining localization  
@@ -80,7 +80,7 @@ I'm Senior iOS Developer with 14+ years of experience.
 
 ---
 
-### **Tinybeans - Photo Sharing App** _(Nov 2020 – Nov 2022)_  
+### [**Tinybeans - Photo Sharing App**](https://tinybeans.com) _(Nov 2020 – Nov 2022)_  
 **Senior Software Engineer / Tech Lead**  
 - Integrated **SwiftUI** and led architectural improvements  
 - Developed advanced **photo & video editing tools**  
@@ -88,7 +88,7 @@ I'm Senior iOS Developer with 14+ years of experience.
 
 ---
 
-### **boon.PLANET & boon.** _(Mar 2018 – Jun 2020)_  
+### [**boon.PLANET & boon.**](https://x.com/boon_official) _(Mar 2018 – Jun 2020)_  
 **Senior Software Engineer / Team Lead**  
 - Built a **fintech banking app** supporting digital and physical Mastercard payments  
 - Led a **team of 13 engineers**  
@@ -97,7 +97,7 @@ I'm Senior iOS Developer with 14+ years of experience.
 
 ---
 
-### **Reisebank** _(Nov 2016 – Jun 2020)_  
+### [**bankomo by ReiseBank AG**](https://appadvice.com/app/bankomo/1256304595) _(Nov 2016 – Jun 2020)_  
 **Senior Software Engineer / Team Lead**  
 - Built a **mobile banking app for ReiseBank AG**  
 - Successfully convinced the client to **switch to Swift** for development  
@@ -105,7 +105,7 @@ I'm Senior iOS Developer with 14+ years of experience.
 
 ---
 
-### **Pixable (iOS & Android)** _(Dec 2013 – Jul 2015)_  
+### [**Pixable (iOS & Android)**](https://avinashadluri.medium.com/pixable-dont-miss-a-single-photo-in-facebook-twitter-recently-though-you-are-busy-here-is-your-photo-70249e61d66a) _(Dec 2013 – Jul 2015)_  
 **Middle-Senior Software Engineer**  
 - Developed a **news feed and aggregator** for photos and videos from Facebook, Twitter, and Instagram  
 - Led the **Objective-C to Swift rewrite**, improving maintainability and modernizing the codebase  
@@ -114,7 +114,7 @@ I'm Senior iOS Developer with 14+ years of experience.
 
 ---
 
-### **IntellaCar** _(Nov 2011 – Dec 2013)_  
+### [**IntellaCar**](https://appadvice.com/app/intellacar-hd/456679848) _(Nov 2011 – Dec 2013)_  
 **Junior-Middle Software Engineer**  
 - Developed a **mobile sales platform** for car dealerships, eliminating knowledge gaps for consultants  
 - Integrated **CARFAX API**, enabling instant vehicle history reports  
