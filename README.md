@@ -53,6 +53,8 @@ I'm Senior iOS Developer with 14+ years of experience.
 <details>
 <summary><h2>🚀  Work Experience</h2></summary>
 
+Participated in the following projects as an employee of [ventionteams](https://ventionteams.com) and [itechartgroup](https://itechartgroup.by).
+
 ### [**GuideHuman**](https://guidehuman.co) _(Feb 2024 – Aug 2024)_  
 **Senior Software Engineer**  
 - Developed a **smart social media app** enabling intuitive content sharing and organization  
