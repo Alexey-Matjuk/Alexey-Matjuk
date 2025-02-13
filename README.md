@@ -60,7 +60,7 @@ Participated in the following projects as an employee of [ventionteams](https://
 - Developed a **smart social media app** enabling intuitive content sharing and organization  
 - Led the **video generation feature**, reducing processing time from **15-20 sec to 3 sec**  
 - Designed a custom **animation label inspired by Apple Music karaoke**  
-- Optimized internal **sharing API**, making it easier to expand integrations  
+- Optimized internal **sharing API**, making it easier to expand integrations
 
 ---
 
