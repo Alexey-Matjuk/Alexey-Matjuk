@@ -63,7 +63,7 @@ I'm Senior iOS Developer with 14+ years of experience.
 ---
 
 ### [**Flow**](https://apps.apple.com/by/app/life-in-flow/id1660942497) _(Jun 2023 – Nov 2023)_  
-**Lead Software Engineer**  
+**Senior Software Engineer**  
 - Led the development of a **cloud-based property management app**  
 - Reworked **app navigation**, enhancing usability and safety  
 - Improved **SwiftUI components**, fixing architectural flaws  
@@ -72,7 +72,7 @@ I'm Senior iOS Developer with 14+ years of experience.
 ---
 
 ### [**Memrise - Education Platform**](https://www.memrise.com) _(Nov 2022 – Jun 2023)_  
-**Lead Software Engineer**  
+**Senior Software Engineer**  
 - Enhanced **language learning app with 50M+ users**  
 - Developed **SwiftGen templates**, streamlining localization  
 - Suggested and implemented **Git automation to prevent CI failures**  
