@@ -57,10 +57,10 @@ Participated in the following projects as an employee of [ventionteams](https://
 The provided list is incomplete and only includes the most interesting projects.
 
 Honorable mentions:
-* [Camp Bestival](https://dorset.campbestival.net)
-* [CNA](https://www.cna.id/)
-* [ClassPass](https://classpass.com)
-* [Bitdefender](https://www.bitdefender.com)
+* [Camp Bestival](https://bambinogoodies.co.uk/camp-bestival-finger-paints-ipad-app/) - iPadOS App
+* [ClassPass](https://classpass.com) - iOS App
+* [Bitdefender](https://www.bitdefender.com) - POC of macOS app 
+* [CNA](https://www.cna.id/) - Android App
 
 ### [**GuideHuman**](https://guidehuman.co) _(Feb 2024 – Aug 2024)_  
 **Senior Software Engineer**  
