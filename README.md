@@ -105,6 +105,19 @@ I'm Senior iOS Developer with 14+ years of experience.
 
 ---
 
+### [**Primer iOS SDK v3**](https://github.com/goprimer/primer-ios-sdk) _(Jul 2015 – Jul 2016)_  
+**Senior Software Engineer**  
+- Extensively participated in architecturing of all key parts of SDK
+- We created highly testable code base and achieved more than 80% test
+coverage
+- Suggested and adopted newly introduced Apple's UI tests
+- Based on my previous experience encouraged to use Swift for Unit/UI tests,
+which allowed us to write them faster
+- Accomplished R&D and established all framework guidelines to achieve
+compliance of our Objective-C codebase with Swift
+
+---
+
 ### [**Pixable (iOS & Android)**](https://avinashadluri.medium.com/pixable-dont-miss-a-single-photo-in-facebook-twitter-recently-though-you-are-busy-here-is-your-photo-70249e61d66a) _(Dec 2013 – Jul 2015)_  
 **Middle-Senior Software Engineer**  
 - Developed a **news feed and aggregator** for photos and videos from Facebook, Twitter, and Instagram  
