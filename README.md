@@ -62,7 +62,7 @@ I'm Senior iOS Developer with 14+ years of experience.
 
 ---
 
-### **Flow** _(Jun 2023 – Nov 2023)_  
+### [**Flow**](https://apps.apple.com/by/app/life-in-flow/id1660942497) _(Jun 2023 – Nov 2023)_  
 **Lead Software Engineer**  
 - Led the development of a **cloud-based property management app**  
 - Reworked **app navigation**, enhancing usability and safety  
