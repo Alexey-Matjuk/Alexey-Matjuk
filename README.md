@@ -27,7 +27,7 @@
 </p>
 
 ## Hi there 👋
-I'm Senior iOS Developer with 14+ years of experience.
+I'm Senior iOS Developer with 14+ years of experience. This is my **Hobby**, this is my **Work**, this is what I **like** to do.
 
 - Expertise in **Swift, Objective-C**  
 - Strong analytical skills  
