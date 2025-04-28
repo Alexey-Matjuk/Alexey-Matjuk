@@ -53,7 +53,7 @@ I'm Senior iOS Developer with 14+ years of experience.
 <details>
 <summary><h2>🚀  Work Experience</h2></summary>
 
-### [**Axelroad Workout Habit Builder**]([https://guidehuman.co](https://www.axelroad.com)) _(Feb 2025 – current)_  
+### [**Axelroad Workout Habit Builder**](https://www.axelroad.com) _(Feb 2025 – current)_  
 **Senior Software Engineer**  
 - Took the responsibility for iOS App development and technical decisions.
 - Suggested and implemented technical improvements:
