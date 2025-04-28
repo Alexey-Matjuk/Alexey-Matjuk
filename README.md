@@ -53,6 +53,17 @@ I'm Senior iOS Developer with 14+ years of experience.
 <details>
 <summary><h2>🚀  Work Experience</h2></summary>
 
+### [**Axelroad Workout Habit Builder**]([https://guidehuman.co](https://www.axelroad.com)) _(Feb 2025 – current)_  
+**Senior Software Engineer**  
+- Took the responsibility for iOS App development and technical decisions.
+- Suggested and implemented technical improvements:
+  - Automating our builds creation with **Fastlane** and **GitHub Actions**
+  - Migrating to **Buildable Folders** to reduce potential merge conflicts and cluttering **Pull Requests**
+  - Gradually migrating the project to modern **Concurrency**, which significantly simplified logic and reduced code
+  - Brought **SwiftUI** to the project, which I also consider an improvement compared to currently used **UIKit** and **Storyboards**
+
+---
+
 Participated in the following projects as an employee of [ventionteams](https://ventionteams.com) and [itechartgroup](https://itechartgroup.by).
 The provided list is incomplete and only includes the most interesting projects.
 
