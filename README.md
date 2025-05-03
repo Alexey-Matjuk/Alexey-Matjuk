@@ -12,13 +12,13 @@
 </p>
 
 <p align="center">
-  <a href="https://linkedin.com/in/alexey-matjuk" target="_blank">
+  <a href="https://www.linkedin.com/in/aliaksei-matsiuk" target="_blank">
     <img src="https://cdn-icons-png.flaticon.com/24/3536/3536505.png" alt="LinkedIn">
-    linkedin.com/in/alexey-matjuk
+    linkedin.com/in/aliaksei-matsiuk
   </a>
-  <a href="https://stackoverflow.com/users/silmaril" target="_blank">
+  <a href="https://stackoverflow.com/users/2083655/alexey-matjuk" target="_blank">
     <img src="https://cdn-icons-png.flaticon.com/24/2111/2111628.png" alt="Stack Overflow">
-    stackoverflow.com/users/silmaril
+    stackoverflow.com/users/2083655/alexey-matjuk
   </a>
   <a href="https://www.leetcode.com/alexey-matjuk" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" width="24" height="24" alt="LeetCode">
