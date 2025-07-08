@@ -8,9 +8,11 @@
   </p>
 </p>
 
+---
+
 <p align="left">
+  📍 Indonesia<br>
   📧 <a href="mailto:bokkusunotegami@gmail.com">bokkusunotegami@gmail.com</a><br>
-  📍 Indonesia
   <a href="https://www.linkedin.com/in/aliaksei-matsiuk" target="_blank"><br>
     <img src="https://cdn-icons-png.flaticon.com/24/3536/3536505.png" alt="LinkedIn">
     linkedin.com/in/aliaksei-matsiuk
@@ -24,6 +26,8 @@
     leetcode.com/alexey-matjuk
   </a><br>
 </p>
+
+---
 
 ## Hi there 👋
 I'm a Senior iOS Developer with 14+ years of experience. This is my **Hobby**, this is my **Work**, this is what I **like** to do. With 
@@ -71,6 +75,7 @@ I'm a Senior iOS Developer with 14+ years of experience. This is my **Hobby**, t
 
 **[Belarusian State University of Informatics and Radioelectronics](https://www.bsuir.by/en/):** Faculty of Computer Systems and Networks _(2004 - 2009)_
 
+---
 <details>
 <summary><h2>🚀  Work Experience</h2></summary>
 
