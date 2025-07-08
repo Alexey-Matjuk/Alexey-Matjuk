@@ -27,22 +27,22 @@
 </p>
 
 ## Hi there 👋
-I'm Senior iOS Developer with 14+ years of experience. This is my **Hobby**, this is my **Work**, this is what I **like** to do.
-
-- Expertise in **Swift, Objective-C**  
+I'm a Senior iOS Developer with 14+ years of experience. This is my **Hobby**, this is my **Work**, this is what I **like** to do. With
+ 
 - Strong analytical skills  
 - Deep knowledge of the **full life cycle of application development**  
 - Proven ability to **optimize performance and reduce load times**  
 - Strong leadership experience mentoring and guiding teams  
 
 ## 🛠 Core Competencies
-- **Native iOS Development:** Swift, Objective-C, UIKit, SwiftUI, Combine, CoreData, StoreKit  
-- **Version Control:** Git, SVN, GitHub, GitLab, Bitbucket  
-- **Agile & Project Management:** Jira, Trello, Pivotal Tracker  
-- **CI/CD & Build Tools:** Jenkins, Fastlane, Github Actions  
-- **Testing & Debugging:** XCTest, Swift Testing, Quick, Nimble
-- **API & SDK Integration:** GraphQL, RESTful APIs, Firebase
+- **Native iOS Development:** Swift, Objective-C, UIKit, SwiftUI, Combine, CoreData, StoreKit, TestFlight  
 - **Performance Optimization & Debugging**
+- **Testing & Debugging:** Swift Testing, XCTest, Quick, Nimble
+- **Version Control:** Git, GitHub, GitLab, Bitbucket, SVN
+- **Package Managers:** SPM, CocoaPods, Carthage
+- **Agile & Project Management:** Jira, Trello, Pivotal Tracker  
+- **CI/CD & Build Tools:** Fastlane, GitHub Actions
+- **API & SDK Integration:** RESTful APIs, GraphQL, Firebase, Branch, Qonversion, Factory
 
 ## 🎓 Education  
 
@@ -53,15 +53,21 @@ I'm Senior iOS Developer with 14+ years of experience. This is my **Hobby**, thi
 <details>
 <summary><h2>🚀  Work Experience</h2></summary>
 
-### [**Axelroad Workout Habit Builder**](https://www.axelroad.com) _(Feb 2025 – current)_  
+### [**Axelroad: Strength Training**](https://apps.apple.com/app/axelroad-strength-training/id6502515101) _(Feb 2025 – current)_  
 **Senior Software Engineer**  
 Leading iOS app development and owning key technical decisions.
 
-Proposed and delivered technical enhancements, including:
-*	Automating build and deployment processes with **Fastlane** and **GitHub Actions**.
-*	Transitioning to **Buildable Folders** to minimize merge conflicts and streamline **Pull Requests**.
-*	Introducing modern **Concurrency**, significantly simplifying app logic and reducing code complexity.
-*	Integrating **SwiftUI** into the project, improving upon the existing **UIKit** and **Storyboard**-based architecture.
+**Achievements:**
+*	Significantly simplified app logic, reduced code complexity and amount of code while still delivering new features:
+    *	Migrated almost the whole project to **Swift Modern Concurrency**.
+    *	Migrated most of the screens and views to **SwiftUI**.
+    *	Code shrunk from *‎69055* lines of code (including Storyboards) to *28180*, which is around **60%**.
+* Migrated project to **Swift 6**.
+* Eliminated all warnings.
+* Made early (2nd beta) support of **iOS 26** and **Xcode 26**.
+*	Automated/Simplified build and deployment processes with **Fastlane** and **GitHub Actions**.
+*	Migrated project to **Buildable Folders** to minimize merge conflicts and streamline **Pull Requests**.
+
 ---
 
 Participated in the following projects as an employee of [ventionteams](https://ventionteams.com) and [itechartgroup](https://itechartgroup.by).
