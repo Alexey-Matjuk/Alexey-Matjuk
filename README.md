@@ -33,15 +33,40 @@ I'm a Senior iOS Developer with 14+ years of experience. This is my **Hobby**, t
 - Strong leadership experience mentoring and guiding teams  
 
 ## 🛠 Core Competencies
-- **Native iOS Development:** Swift, Objective-C, UIKit, SwiftUI, Combine, CoreData, StoreKit, TestFlight  
-- **Performance Optimization & Debugging**
-- **Testing & Debugging:** Swift Testing, XCTest, Quick, Nimble
-- **Version Control:** Git, GitHub, GitLab, Bitbucket, SVN
-- **Package Managers:** SPM, CocoaPods, Carthage
-- **Agile & Project Management:** Jira, Trello, Pivotal Tracker  
-- **CI/CD & Build Tools:** Fastlane, GitHub Actions
-- **API & SDK Integration:** RESTful APIs, GraphQL, Firebase, Branch, Qonversion, Factory
 
+**🚀 iOS Development**
+-	Languages: Swift, Objective-C
+-	Frameworks: UIKit, SwiftUI, Combine, CoreData, StoreKit, ...
+-	App Architectures: MVVM, Clean Architecture, MVC, ...
+-	Distribution: TestFlight, App Store Connect, ...
+
+**🧪 Testing & Quality**
+-	Unit & UI Testing: XCTest, Swift Testing, GWT, Quick, Nimble
+-	Static Analysis & Linting: SwiftLint, SwiftFormat
+
+**⚙️ CI/CD & Automation**
+-	Tools: Fastlane, GitHub Actions, ...
+-	Automation: Custom Git Hooks, Scripted Workflows
+
+**📦 Dependency & Package Management**
+-	Package Managers: Swift Package Manager (SPM), CocoaPods, Carthage
+-	Code Generation: SwiftGen, Swagger
+
+**🌐 APIs & Integrations**
+-	API Types: REST, GraphQL
+-	SDKs: Firebase, Branch, Factory, ...
+-	Payments: StoreKit, Qonversion, ...
+
+**🧠 Architecture & Performance**
+-	Architectures: MVVM, Clean Architecture, ...
+-	Optimization: Performance tuning, memory management, codebase size reduction
+-	Debugging Tools: Instruments, Console, Xcode Debugger
+
+**🔧 Dev Tools & Workflow**
+-	Version Control: Git (GitHub, GitLab, Bitbucket), SVN
+-	Agile Practices: Jira, Trello, Pivotal Tracker
+-	Collaboration: Code reviews, technical mentorship, documentation
+ 
 ## 🎓 Education  
 
 **[Belarusian State University of Informatics and Radioelectronics](https://www.bsuir.by/en/):** Faculty of Computer Systems and Networks _(2004 - 2009)_
