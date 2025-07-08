@@ -69,8 +69,8 @@ Leading iOS app development and owning key technical decisions.
 *	Migrated project to **Buildable Folders** to minimize merge conflicts and streamline **Pull Requests**.
 
 ---
-
-Participated in the following projects as an employee of [ventionteams](https://ventionteams.com) and [itechartgroup](https://itechartgroup.by).
+### [**Vention**](https://ventionteams.com) and [**ItechArt Group**](https://itechartgroup.by) _(2011 – 2024)_
+Participated in the following projects as an employee of [Vention](https://ventionteams.com) and [ItechArt Group](https://itechartgroup.by).
 The provided list is incomplete and only includes the most interesting projects.
 
 Honorable mentions:
