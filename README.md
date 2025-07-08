@@ -12,7 +12,7 @@
 
 <p align="left">
   📍 Indonesia<br>
-  📧 <a href="mailto:bokkusunotegami@gmail.com">bokkusunotegami@gmail.com</a><br>
+  📧 <a href="mailto:bokkusunotegami@gmail.com">bokkusunotegami@gmail.com</a>
   <a href="https://www.linkedin.com/in/aliaksei-matsiuk" target="_blank"><br>
     <img src="https://cdn-icons-png.flaticon.com/24/3536/3536505.png" alt="LinkedIn">
     linkedin.com/in/aliaksei-matsiuk
