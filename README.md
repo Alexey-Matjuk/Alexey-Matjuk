@@ -6,24 +6,23 @@
   <p align="center">
   Senior iOS Developer
   </p>
-  <p align="center">
-  📧 <a href="mailto:bokkusunotegami@gmail.com">bokkusunotegami@gmail.com</a> 📍 Indonesia
-  </p>
 </p>
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/aliaksei-matsiuk" target="_blank">
+<p align="left">
+  📧 <a href="mailto:bokkusunotegami@gmail.com">bokkusunotegami@gmail.com</a><br>
+  📍 Indonesia
+  <a href="https://www.linkedin.com/in/aliaksei-matsiuk" target="_blank"><br>
     <img src="https://cdn-icons-png.flaticon.com/24/3536/3536505.png" alt="LinkedIn">
     linkedin.com/in/aliaksei-matsiuk
-  </a>
+  </a><br>
   <a href="https://stackoverflow.com/users/2083655/alexey-matjuk" target="_blank">
     <img src="https://cdn-icons-png.flaticon.com/24/2111/2111628.png" alt="Stack Overflow">
     stackoverflow.com/users/2083655/alexey-matjuk
-  </a>
+  </a><br>
   <a href="https://www.leetcode.com/alexey-matjuk" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" width="24" height="24" alt="LeetCode">
     leetcode.com/alexey-matjuk
-  </a>
+  </a><br>
 </p>
 
 ## Hi there 👋
