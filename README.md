@@ -3,9 +3,6 @@
   <p align="center">
   <strong>Alexey Matjuk</strong>
   </p>
-  <p align="center">
-  Senior iOS Developer
-  </p>
 </p>
 
 ---
@@ -30,7 +27,7 @@
 ---
 
 ## Hi there 👋
-I'm a Senior iOS Developer with 14+ years of experience. This is my **Hobby**, this is my **Work**, this is what I **like** to do. With 
+I'm an iOS Developer with 14+ years of experience. This is my **Hobby**, this is my **Work**, this is what I **like** to do. With 
 - Strong analytical skills  
 - Deep knowledge of the **full life cycle of application development**  
 - Proven ability to **optimize performance and reduce load times**  
