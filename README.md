@@ -1,5 +1,13 @@
 ## Hi there, I'm Alexey 👋
 
+<img src="https://avatars.githubusercontent.com/u/159902452?s=64&v=4" width="20" height="20">![Co-founder @Axelroad](https://img.shields.io/badge/Co--founder-EDF0F4?style=flat-square&link=https%3A%2F%2Fapps.apple.com%2Fapp%2Faxelroad-strength-training%2Fid6502515101)
+![Swift](https://img.shields.io/badge/-Swift-FA7343?style=flat-square&logo=swift&logoColor=white)
+![SwiftUI](https://img.shields.io/badge/-SwiftUI-0062D3?style=flat-square&logo=swift&logoColor=white)
+![UIKit](https://img.shields.io/badge/-UIKit-2396F3?style=flat-square&logo=uikit&logoColor=white)
+![GitHub Copilot](https://img.shields.io/badge/-GitHub_Copilot-6532D9?style=flat-square&logo=githubcopilot&logoColor=white)
+![Fastlane](https://img.shields.io/badge/-Fastlane-00A000?style=flat-square&logo=fastlane&logoColor=white)
+![Github Actions](https://img.shields.io/badge/-GitHub_Actions-000000?style=flat-square&logo=githubactions&logoColor=white&color=gray)
+
 I'm an Senior iOS Developer with 14+ years of experience designing, developing, and maintaining
 production iOS applications.
 Strong expertise in Swift, SwiftUI, UIKit, and Swift Concurrency (async/await).
@@ -50,7 +58,7 @@ Experienced in working with cross-functional and distributed teams.
 <summary><h2>🚀  Work Experience</h2></summary>
 
 ## [**Axelroad: Strength Training**](https://apps.apple.com/app/axelroad-strength-training/id6502515101) _(Feb 2025 – current)_  
-**Senior Software Engineer**  
+**Lead Software Engineer | Co-founder**  
 Leading iOS app development and owning key technical decisions.
 
 **Achievements:**
