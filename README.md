@@ -1,7 +1,5 @@
 ## Hi there, I'm Alexey 👋
 
----
-
 I'm an Senior iOS Developer with 14+ years of experience designing, developing, and maintaining
 production iOS applications.
 Strong expertise in Swift, SwiftUI, UIKit, and Swift Concurrency (async/await).
