@@ -1,37 +1,12 @@
-<p align="center">
-  <img src="https://avatars.githubusercontent.com/u/3024819?v=4" alt="Alexey Matjuk" width="100" height="100">
-  <p align="center">
-  <strong>Alexey Matjuk</strong>
-  </p>
-</p>
+## Hi there, I'm Alexey 👋
 
 ---
 
-<p align="left">
-  📍 Indonesia<br>
-  📧 <a href="mailto:bokkusunotegami@gmail.com">bokkusunotegami@gmail.com</a>
-  <a href="https://www.linkedin.com/in/aliaksei-matsiuk" target="_blank"><br>
-    <img src="https://cdn-icons-png.flaticon.com/24/3536/3536505.png" alt="LinkedIn">
-    linkedin.com/in/aliaksei-matsiuk
-  </a><br>
-  <a href="https://stackoverflow.com/users/2083655/alexey-matjuk" target="_blank">
-    <img src="https://cdn-icons-png.flaticon.com/24/2111/2111628.png" alt="Stack Overflow">
-    stackoverflow.com/users/2083655/alexey-matjuk
-  </a><br>
-  <a href="https://www.leetcode.com/alexey-matjuk" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" width="24" height="24" alt="LeetCode">
-    leetcode.com/alexey-matjuk
-  </a><br>
-</p>
-
----
-
-## Hi there 👋
-I'm an iOS Developer with 14+ years of experience. This is my **Hobby**, this is my **Work**, this is what I **like** to do. With 
-- Strong analytical skills  
-- Deep knowledge of the **full life cycle of application development**  
-- Proven ability to **optimize performance and reduce load times**  
-- Strong leadership experience mentoring and guiding teams  
+I'm an Senior iOS Developer with 14+ years of experience designing, developing, and maintaining
+production iOS applications.
+Strong expertise in Swift, SwiftUI, UIKit, and Swift Concurrency (async/await).
+Proven experience delivering high-quality, scalable, and maintainable mobile applications.
+Experienced in working with cross-functional and distributed teams.
 
 ## 🛠 Core Competencies
 
