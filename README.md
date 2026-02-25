@@ -17,26 +17,26 @@ Spent 13 years within a single engineering organization, progressing from develo
 
 ### 🛠 TECHNICAL SKILLS
 
-🗣️ Languages & Concurrency: Swift, Objective-C, Swift Concurrency, Combine
+🗣️ Languages & Concurrency: `Swift`, `Objective-C`, `Swift Concurrency`, `Combine`
 
-🧠 Architecture & Modularization: Clean Architecture, MVVM-C, Modularization
+🧠 Architecture & Modularization: `Clean Architecture`, `MVVM-C`, `Modularization`
 
-📦 Dependency Management: SPM, CocoaPods
+📦 Dependency Management: `SPM`, `CocoaPods`
 
-🍏 UI & Apple Frameworks: SwiftUI, UIKit, AVFoundation, AVKit, StoreKit 2, Accessibility, CoreImage, Watch Connectivity, HealthKit, Core Data
+🍏 UI & Apple Frameworks: `SwiftUI`, `UIKit`, `AVFoundation`, `AVKit`, `StoreKit 2`, `Accessibility`, `CoreImage`, `Watch Connectivity`, `HealthKit`, `Core Data`
 
-🌐 Networking & Integrations: REST, GraphQL, Firebase, Apple Pay, Qonversion, Lottie, Branch
+🌐 Networking & Integrations: `REST`, `GraphQL`, `Firebase`, `Apple Pay`, `Qonversion`, `Lottie`, `Branch`
 
-🧪 Testing & Debugging: Swift Testing, XCTest, XCUITest, Snapshot Testing, Instruments, LLDB
+🧪 Testing & Debugging: `Swift Testing`, `XCTest`, `XCUITest`, `Snapshot Testing`, `Instruments`, `LLDB`
 
-⚙️ CI/CD & Code Quality: Fastlane, GitHub Actions, SwiftLint, SwiftFormat, SwiftGen
+⚙️ CI/CD & Code Quality: `Fastlane`, `GitHub Actions`, `SwiftLint`, `SwiftFormat`, `SwiftGen`
  
 <details>
 <summary><h3>🧑‍💻 PROJECTS</h3></summary>
 
 - **Lead Software Engineer | Co-founder** at [**Axelroad: Strength Training**](https://apps.apple.com/app/axelroad-strength-training/id6502515101) _(Feb 2025 – current)_  
-- **Senior / Lead iOS Engineer** at [**Vention**](https://ventionteams.com) and [**ItechArt Group**](https://itechartgroup.by) _(2011 – 2024)_
-Progressed from Junior to Lead iOS Engineer across multiple long-term projects.
+- **Senior / Lead iOS Engineer** at [**Vention**](https://ventionteams.com) and [**ItechArt Group**](https://itechartgroup.by) _(2011 – 2024)_ where I progressed from Junior to Lead iOS Engineer across multiple long-term projects.
+
 ### Selected Vention Projects:
 - **Senior Software Engineer** at [**GuideHuman**](https://guidehuman.co) _(Feb 2024 – Aug 2024)_  
 - **Senior Software Engineer** at [**Flow**](https://apps.apple.com/by/app/life-in-flow/id1660942497) _(Jun 2023 – Nov 2023)_  
