@@ -34,7 +34,7 @@ Spent 13 years within a single engineering organization, progressing from develo
 <details>
 <summary><h3>🧑‍💻 PROJECTS</h3></summary>
 
-- **Lead Software Engineer | Co-founder** at [**Axelroad: Strength Training**](https://apps.apple.com/app/axelroad-strength-training/id6502515101) _(Feb 2025 – current)_  
+- **Lead Software Engineer | Co-founder** at [**Axelroad: Strength Training**](https://apps.apple.com/app/axelroad-strength-training/id6502515101) _(Feb 2025 – Present)_  
 - **Senior / Lead iOS Engineer** at [**Vention**](https://ventionteams.com) and [**ItechArt Group**](https://itechartgroup.by) _(2011 – 2024)_ where I progressed from Junior to Lead iOS Engineer across multiple long-term projects.
 
 ### Selected Vention Projects:
