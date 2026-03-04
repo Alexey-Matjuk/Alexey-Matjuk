@@ -13,7 +13,6 @@ Senior iOS Engineer specializing in Swift/SwiftUI with 14+ years of experience b
 Specialized in mobile architecture design, legacy modernization, and incremental migration to modern iOS technologies.
 Experienced in App Store deployments, performance optimization, and production incident resolution within enterprise and client-driven environments.
 
-Spent 13 years within a single engineering organization, progressing from developer to technical lead across multiple international projects.
 
 ### 🛠 TECHNICAL SKILLS
 
